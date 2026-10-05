@@ -1,2 +1,4 @@
 github.com/go-ruby-fast-gettext-locale/fast-gettext-locale v0.0.0-20260825110154-a53e0e3a41a7 h1:vKG4lEzAZX0MXc0RgIZvuxxjLm5GEnUiwgV711nEbhY=
 github.com/go-ruby-fast-gettext-locale/fast-gettext-locale v0.0.0-20260825110154-a53e0e3a41a7/go.mod h1:uL9OXR02JFILIgyJTWs82PseC59F54CNWZVSEnPkRbs=
+github.com/go-ruby-fast-gettext-locale/fast-gettext-locale v0.0.0-20261005015521-343ee84f2b5a h1:hnMaHMjG92MLCsD47iK/EKWD8A7qgxUB8V65uuFjcRw=
+github.com/go-ruby-fast-gettext-locale/fast-gettext-locale v0.0.0-20261005015521-343ee84f2b5a/go.mod h1:3UYB3PYrkdErTLp2gF5cp/Mve1Ch7BHqTbkE9Baq5o0=
